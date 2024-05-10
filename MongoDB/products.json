@@ -1,0 +1,152 @@
+[
+   {
+      "product_id":1,
+      "name":"Game Console",
+      "price":499.99,
+      "description":"Playstation 5",
+      "E":[
+         4,
+         7,
+         2
+      ]
+   },
+   {
+      "product_id":2,
+      "name":"Desktop",
+      "price":1199.99,
+      "description":"Master Gaming PC",
+      "E":[
+         1,
+         6
+      ]
+   },
+   {
+      "product_id":3,
+      "name":"Laptop",
+      "price":1799.99,
+      "description":"MacBook Pro 14-inch ",
+      "E":[
+         8,
+         3,
+         5
+      ]
+   },
+   {
+      "product_id":4,
+      "name":"Smartphone",
+      "price":1099.99,
+      "description":"Iphone 13 Pro Max",
+      "E":[
+         9,
+         2,
+         7
+      ]
+   },
+   {
+      "product_id":5,
+      "name":"Headphones",
+      "price":349.99,
+      "description":"Beats Studio Pro",
+      "E":[
+         6,
+         4,
+         1
+      ]
+   },
+   {
+      "product_id":6,
+      "name":"Tablet",
+      "price":999.99,
+      "description":"Ipad Pro 11-inch",
+      "E":[
+         3,
+         9
+      ]
+   },
+   {
+      "product_id":7,
+      "name":"Camera",
+      "price":599.99,
+      "description":"Cannon EOS Rebel T7",
+      "E":[
+         5,
+         8,
+         2
+      ]
+   },
+   {
+      "product_id":8,
+      "name":"Smartwatch",
+      "price":399.99,
+      "description":"Apple Watch Series 9",
+      "E":[
+         7,
+         3
+      ]
+   },
+   {
+      "product_id":9,
+      "name":"Printer",
+      "price":249.99,
+      "description":"HP Officejet Pro 9010",
+      "E":[
+         1,
+         9,
+         6
+      ]
+   },
+   {
+      "product_id":10,
+      "name":"TV",
+      "price":299.99,
+      "description":"Roku 55-Iinch 4K Smart TV",
+      "E":[
+         8,
+         4,
+         2
+      ]
+   },
+   {
+      "product_id":11,
+      "name":"Computer Monitor",
+      "price":299.99,
+      "description":"Samsung Odyssey 32-inch",
+      "E":[
+         3,
+         6
+      ]
+   },
+   {
+      "product_id":12,
+      "name":"Wireless Router",
+      "price":149.99,
+      "description":"NETGEAR Nighthawk",
+      "E":[
+         2,
+         7,
+         4
+      ]
+   },
+   {
+      "product_id":13,
+      "name":"Bluetooth Speaker",
+      "price":175.99,
+      "description":"JBL Charge 5",
+      "E":[
+         5,
+         1,
+         8
+      ]
+   },
+   {
+      "product_id":14,
+      "name":"Wireless Earbuds",
+      "price":149.99,
+      "description":"AirPod Pro",
+      "E":[
+         6,
+         3,
+         9
+      ]
+   }
+]
